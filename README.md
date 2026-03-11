@@ -67,5 +67,3 @@ Watch the system in action:
    npm run dev
    ```
 
----
-Developed with 💙 for industry-standard Java excellence.
